@@ -45,5 +45,4 @@ struct grm_rl8_production {
 uint32_t grm_rl8(struct grm_rl8_production* productions, uint8_t* current_state, uint32_t iterations, uint8_t* output);
 
 #endif // !_GRAMMAR_RL_H_
-#define _GRAMMAR_RL_H_ 1
 
